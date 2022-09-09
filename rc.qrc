@@ -1,0 +1,18 @@
+<RCC>
+  <qresource prefix="pic">
+    <file>YouTube-Vanced-New.webp</file>
+    <file>pngtree-blue-download-button-for-internet-website-png-image_3121033.jpg</file>
+  </qresource>
+  <qresource prefix="false">
+    <file>free-clipart-right-or-wrong-.png</file>
+  </qresource>
+  <qresource prefix="true">
+    <file>2714-fe0f.png</file>
+  </qresource>
+  <qresource prefix="do">
+    <file>Arrow-Down-Transparent-Images.png</file>
+  </qresource>
+  <qresource prefix="icon">
+    <file>icob.png</file>
+  </qresource>
+</RCC>
